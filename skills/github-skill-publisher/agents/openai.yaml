@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Skill Publisher"
+  short_description: "验证、包装并发布 Codex Skills 到指定 GitHub 账号"
+  default_prompt: "用 $github-skill-publisher 发布这个 Skill 到 GitHub。"

@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.*
+private-drafts/
+staging/
+*.pem
+*.key
+__pycache__/
+*.pyc

@@ -1,0 +1,7 @@
+github_owner: "MrG-AI-Evo"
+catalog_repository: "codex-skill-publisher"
+default_visibility: "public"
+repository_suffix: "-skill"
+readme_language: "bilingual-zh-en"
+local_draft_directory: "/Users/MrG/Documents/Codex/Skill Publisher/private-drafts"
+credentials_policy: "Use GitHub CLI, macOS Keychain, or SSH agent only; never store credentials in project files."
