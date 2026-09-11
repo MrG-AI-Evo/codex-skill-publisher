@@ -1,6 +1,12 @@
 publisher: "MrG-AI-Evo"
 updated: "2026-09-11"
 skills:
+  - name: "github-skill-publisher"
+    display_name: "GitHub Skill Publisher"
+    invocation: "$github-skill-publisher"
+    repository: "https://github.com/MrG-AI-Evo/codex-skill-publisher"
+    visibility: "public"
+    status: "published"
   - name: "tiny-people-theater"
     display_name: "Tiny People Theater"
     invocation: "$tiny-people-theater"
