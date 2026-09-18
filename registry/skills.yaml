@@ -1,5 +1,5 @@
 publisher: "MrG-AI-Evo"
-updated: "2026-09-11"
+updated: "2026-09-18"
 skills:
   - name: "github-skill-publisher"
     display_name: "GitHub Skill Publisher"
@@ -17,5 +17,11 @@ skills:
     display_name: "Tiny People Theater: Split-Screen Edition"
     invocation: "$tiny-people-theater-split-screen"
     repository: "https://github.com/MrG-AI-Evo/tiny-people-theater-split-screen-skill"
+    visibility: "public"
+    status: "published"
+  - name: "city-poster-atlas"
+    display_name: "城市海报图鉴 / City Poster Atlas"
+    invocation: "$city-poster-atlas"
+    repository: "https://github.com/MrG-AI-Evo/city-poster-atlas-skill"
     visibility: "public"
     status: "published"
