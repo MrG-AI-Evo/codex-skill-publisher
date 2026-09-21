@@ -1,5 +1,5 @@
 publisher: "MrG-AI-Evo"
-updated: "2026-09-18"
+updated: "2026-09-21"
 skills:
   - name: "github-skill-publisher"
     display_name: "GitHub Skill Publisher"
@@ -23,5 +23,11 @@ skills:
     display_name: "城市海报图鉴 / City Poster Atlas"
     invocation: "$city-poster-atlas"
     repository: "https://github.com/MrG-AI-Evo/city-poster-atlas-skill"
+    visibility: "public"
+    status: "published"
+  - name: "giant-hand-outfit-video"
+    display_name: "真人娃娃巨手换装 / Giant Hand Outfit Video"
+    invocation: "$giant-hand-outfit-video"
+    repository: "https://github.com/MrG-AI-Evo/giant-hand-outfit-video-skill"
     visibility: "public"
     status: "published"
