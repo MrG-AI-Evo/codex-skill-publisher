@@ -1,5 +1,5 @@
 publisher: "MrG-AI-Evo"
-updated: "2026-09-21"
+updated: "2026-09-23"
 skills:
   - name: "github-skill-publisher"
     display_name: "GitHub Skill Publisher"
@@ -29,5 +29,11 @@ skills:
     display_name: "真人娃娃巨手换装 / Giant Hand Outfit Video"
     invocation: "$giant-hand-outfit-video"
     repository: "https://github.com/MrG-AI-Evo/giant-hand-outfit-video-skill"
+    visibility: "public"
+    status: "published"
+  - name: "santi-voxel-office-cards"
+    display_name: "三体方块人职场梗卡 / Santi Voxel Office Cards"
+    invocation: "$santi-voxel-office-cards"
+    repository: "https://github.com/MrG-AI-Evo/santi-voxel-office-cards-skill"
     visibility: "public"
     status: "published"
